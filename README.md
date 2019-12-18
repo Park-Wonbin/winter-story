@@ -1,6 +1,12 @@
 # 겨울 이야기
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
 ### 당신의 고민을 녹여드립니다
 > 2019-2 POSTECH CITE303 생명감성 & 트랜스휴먼 스튜디오 Final Project
+
+<p align="center">
+    <img src="https://github.com/Park-Wonbin/winter-story/blob/master/img.png" width="100%"/>
+</p>
 
 ## 프로젝트 설명
 사람들의 고민이 눈처럼 떨어져 쌓이고 시간이 지나면 서서히 녹아 없어집니다.
