@@ -23,7 +23,7 @@
 - **Firebase RealTime Database** 사용, `google-services.json` 파일을 변경해주세요.
 - Library Used - [PhysicsLayout](https://github.com/Jawnnypoo/PhysicsLayout)
 
-## WEP
+## WEB
 [**DEMO**](https://binvitstudio.com/winter_story)
 - **AWS**를 사용하여 호스팅 하였으며, **HTML, CSS, Javascript**로 개발하였습니다.
 - **Firebase RealTime Database** 사용, `firebaseConfig` 변수을 변경해주세요.
