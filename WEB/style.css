@@ -1,0 +1,124 @@
+body {
+  background: #343d46;
+}
+
+h1 {
+  font-size: 30px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+  color: #fff;
+  text-align: center;
+  margin: 100px 0 0 0;
+}
+
+h3 {
+  font-size: 20px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+  color: #fff;
+  text-align: center;
+}
+
+hr {
+  width: 250px;
+  border: thin solid #63717f;
+}
+
+.wrap {
+  margin: 0 0 100px 0;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.button {
+  width: 140px;
+  height: 45px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 2.5px;
+  font-weight: 500;
+  color: #343d46;
+  background-color: #fff;
+  border: none;
+  border-radius: 45px;
+  box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease 0s;
+  cursor: pointer;
+  outline: none;
+  }
+
+.button:hover {
+  background-color: #2EE59D;
+  box-shadow: 0px 15px 20px rgba(46, 229, 157, 0.4);
+  color: #fff;
+  transform: translateY(-7px);
+}
+
+.box {
+  margin: 80px auto;
+  width: 500px;
+  height: 50px;
+}
+
+.container-1 {
+  width: 500px;
+  vertical-align: middle;
+  white-space: nowrap;
+  position: relative;
+}
+
+.container-1 input#text {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+  width: 435px;
+  height: 50px;
+  background: #2b303b;
+  border: none;
+  font-size: 10pt;
+  float: left;
+  color: #63717f;
+  padding-left: 50px;
+  padding-right:15px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+
+  -webkit-transition: background .55s ease;
+  -moz-transition: background .55s ease;
+  -ms-transition: background .55s ease;
+  -o-transition: background .55s ease;
+  transition: background .55s ease;
+}
+
+.container-1 input#text::-webkit-input-placeholder {
+   color: #65737e;
+}
+
+.container-1 input#text:-moz-placeholder { /* Firefox 18- */
+   color: #65737e;
+}
+
+.container-1 input#text::-moz-placeholder {  /* Firefox 19+ */
+   color: #65737e;
+}
+
+.container-1 input#text:-ms-input-placeholder {
+   color: #65737e;
+}
+
+.container-1 .icon {
+  position: absolute;
+  top: 50%;
+  margin-left: 17px;
+  margin-top: 17px;
+  z-index: 1;
+  color: #4f5b66;
+}
+
+.container-1 input#text:hover, .container-1 input#text:focus, .container-1 input#text:active {
+    outline:none;
+    background: #ffffff;
+}
